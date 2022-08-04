@@ -1,5 +1,6 @@
 # Platzi: Django Store Project
 
+
 This a follow-along project from Platzi's Django Intermediate course on Testing, Static Files, and Django Admin at https://platzi.com/cursos/django-intermedio/
 
 ## Description
