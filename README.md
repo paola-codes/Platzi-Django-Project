@@ -1,4 +1,4 @@
-# Platzi: Django Store Project
+# Platzi: Django Project
 
 
 This a follow-along project from Platzi's Django Intermediate course on Testing, Static Files, and Django Admin at https://platzi.com/cursos/django-intermedio/
@@ -31,4 +31,4 @@ py manage.py runserver
 ## Acknowledgments
 
 Original Project:
-* https://platzi.com/cursos/django-intermedio/
+* https://github.com/platzi/django-saga
